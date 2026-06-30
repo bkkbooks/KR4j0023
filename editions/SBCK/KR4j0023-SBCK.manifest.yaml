@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR4j0023/SBCK/v1
+canonical_location: https://kanripo.org/bkk/KR4j0023/SBCK/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 虚齋樂府
+  date: '2015-09-12 01:31:36.067544'
+  source:
+    repository: kanripo
+    path: KR4j0023
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4j0023_000-SBCK.yaml, hash: 'sha256:9c2c7052ea29e9984ed7a695be53e954409c58722e03ee9411cf586837d2ced0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4j0023_000-SBCK.markers.yaml, hash: 'sha256:02339b823e523776ed3f8d8b77bb97c1c2ae7920f53223faac4d81b247ee4f15'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4j0023_SBCK_000-1a
+    span:
+    - body
+    - 0
+    - 4240
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:7f925a5500aefd3dbeab246da6800ce2601b0ef5a3b9dc1586b1c96caf5290e4
