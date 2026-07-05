@@ -20,9 +20,9 @@ editions:
   label: 【四部叢刊】
 assets:
   parts:
-  - {seq: 0, filename: KR4j0023_000.yaml, hash: 'sha256:90a2daceebac014e92ce5ef0e935e371f797dca113b9b82e9e1ace080a831ade'}
+  - {seq: 0, filename: KR4j0023_000.yaml, hash: 'sha256:4ea7b6d97cc3bd27450599bf907cde9fcd9caf4efb50f2abb2a1e8bd97c1f865'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4j0023_000.markers.yaml, hash: 'sha256:77fa36b85b58c8b703cc2c1649dbb0437440ea1f07d45f04468e1a343467b33d'}
+  - {seq: 0, role: markers, filename: assets/KR4j0023_000.markers.yaml, hash: 'sha256:ea24d2994bb74a017b21e37a1dadb048b5147f20a5fc8916593e59b85f1262ad'}
 table_of_contents:
 - ref:
     seq: 0
@@ -34,7 +34,4 @@ table_of_contents:
   label: juan 000
   type: section
   level: 1
-hash: sha256:d6fad3a787c3d4df450aea451b7718d01d58d1f6982af865a70e32f81b4ad012
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4b1b636ac087b35fd13531bdccf28bf4f582f45f89cc69f4d3c224442716210a
